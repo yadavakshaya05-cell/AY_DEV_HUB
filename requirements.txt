@@ -1,5 +1,9 @@
-streamlit
-transformers==4.57.5
-accelerate
-torchvision
 torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+pillow
+numpy
